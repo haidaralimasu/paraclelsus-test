@@ -1,0 +1,4 @@
+export const salp = "0xe6178Fe78Df205307A5c8160439786C4841F6A16";
+export const undp = "0x34CA6A95e92a5Bf546F4f4599270c7B69b7168F8";
+export const sylp = "0xA7c0a873206f4cBa9e2470737Fe34e185193Ee16";
+export const drup = "0x2f641f02e66dfB5C2c5B3dbe75C2eB691b043190";
